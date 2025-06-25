@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BusinessGuide/static/css/main.6a726cb9.css",
+    "main.js": "/BusinessGuide/static/js/main.ae6ad0f3.js",
+    "static/js/453.c97bdc54.chunk.js": "/BusinessGuide/static/js/453.c97bdc54.chunk.js",
+    "index.html": "/BusinessGuide/index.html",
+    "main.6a726cb9.css.map": "/BusinessGuide/static/css/main.6a726cb9.css.map",
+    "main.ae6ad0f3.js.map": "/BusinessGuide/static/js/main.ae6ad0f3.js.map",
+    "453.c97bdc54.chunk.js.map": "/BusinessGuide/static/js/453.c97bdc54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a726cb9.css",
+    "static/js/main.ae6ad0f3.js"
+  ]
+}
