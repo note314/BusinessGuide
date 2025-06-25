@@ -1,8 +1,8 @@
-import BusinessGuide from './BusinessGuide';
+import SelfDiscovery10Steps from './workbooks/SelfDiscovery/SelfDiscovery10Steps';
 
 function App() {
   return (
-    <BusinessGuide />
+    <SelfDiscovery10Steps />
   );
 }
 
